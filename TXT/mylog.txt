@@ -7,3 +7,4 @@ ZCZC W00 04 L05 Quiz
 ZCZC W01 10 L01 SCELE Related
 ZCZC W01 60 L31 install GNU/Linux, etc.
 ZCZC W01 90 L70 Studying for other courses.
+ZCZC W01 60 L05 Week 01 Quiz 02.
