@@ -8,5 +8,8 @@ ZCZC W01 10 L01 SCELE Related
 ZCZC W00 100 L02 ZOOM/Class meetings related
 ZCZC W01 60 L31 install GNU/Linux, etc.
 ZCZC W01 90 L70 Studying for other courses.
+ZCZC W01 60 L09 weekly assignment
 ZCZC W01 60 L05 Week 01 Quiz 02.
-ZCZC 201 01 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W01 01 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W01 60 L09 weekly assignment
+ZCZC W01 30 L06 References/Books/Documents/Browsing/GSGS related
