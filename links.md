@@ -9,3 +9,4 @@ Week 1:
 Week 2:
 | what the link is about | why the link is interesting | Links |
 | --- | --- | --- |
+| `It's chat GPT, really helped me answer all questions` | This video introduce a meaning behind Cyber Security. It does explain it in a quite short time but share some concrete examples that people can understand it very easily, also a very insightful video for the audience. | (https://youtu.be/inWWhr5tnEA) |
