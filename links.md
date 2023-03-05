@@ -10,3 +10,10 @@ Week 2:
 | what the link is about | why the link is interesting | Links |
 | --- | --- | --- |
 | `It's chat GPT, really helped me answer all questions` | This video introduce a meaning behind Cyber Security. It does explain it in a quite short time but share some concrete examples that people can understand it very easily, also a very insightful video for the audience. | (https://youtu.be/inWWhr5tnEA) |
+|Saya mempelajari bahasa C pada link berikut ini. Seperti saya mempelajari Awk, di tutorialspoint sangat lengkap dalam membahas bahasa pemrograman ini. Pada pemeberian materi di link ini, mudah untuk dimengerti dan ada contoh program beserta outputnya.| i love to learn | https://www.tutorialspoint.com/cprogramming/c_basic_syntax.html |
+| Pada link ini mempelajari bahasa C sangat lebih mudah karena menggunakan bahasa Indonesia. Website yang sangat menarik membuat kita menjadi lebih bersamangat untuk mempelajari bahasa C. Diberikan juga contoh command dan output untuk mempermudah kita membayangkan command tersebut bekerja | i love to learn | https://www.petanikode.com/tutorial/c/ |
+
+Week 3:
+| what the link is about | why the link is interesting | Links |
+| --- | --- | --- |
+| `It's chat GPT, really helped me answer all questions` | This video introduce a meaning behind Cyber Security. It does explain it in a quite short time but share some concrete examples that people can understand it very easily, also a very insightful video for the audience. | (https://youtu.be/inWWhr5tnEA) |
