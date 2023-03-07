@@ -16,4 +16,8 @@ Week 2:
 Week 3:
 | what the link is about | why the link is interesting | Links |
 | --- | --- | --- |
-| `It's chat GPT, really helped me answer all questions` | This video introduce a meaning behind Cyber Security. It does explain it in a quite short time but share some concrete examples that people can understand it very easily, also a very insightful video for the audience. | (https://youtu.be/inWWhr5tnEA) |
+| `Cyber Security Meaning` | This video introduce a meaning behind Cyber Security. It does explain it in a quite short time but share some concrete examples that people can understand it very easily, also a very insightful video for the audience. | (https://youtu.be/inWWhr5tnEA) |
+| `Dokumentasi grep command pada Linux` | membantu soal mengenai scripting | (https://www.geeksforgeeks.org/grep-command-in-unixlinux/) |
+| `Video Singkat Mengenai Bagaimana Sebuah Hard Drives Bekerja` | dapat membantu untuk mendapatkan visualisasi bagaimana sebuah memori secondary bekerja | [(https://www.geeksforgeeks.org/grep-command-in-unixlinux/)](https://www.youtube.com/watch?v=wteUW2sL7bc) |
+
+
