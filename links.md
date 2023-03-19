@@ -27,4 +27,10 @@ Week 4:
 | This YouTube video explains the concept of address binding that occurs in the operating system in a simple and understandable way.| (https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)|
 | There are lots of placeholders for print formatting in C language. This link covers all types of formatting, from simple to complex.|https://alvinalexander.com/programming/printf-format-cheat-sheet/|
 
-
+Week 5:
+| what the link is about, why the link is interesting | Links |
+| --- | --- |
+| Virtual Memory: What is Virtual Memory?
+The content of the video really helped me during the quiz. It explains all about virtual memory. It is relatively short. The speaker completes the video with so many visuals, so it is easy to understand it, especially about mapping!| (https://www.youtube.com/watch?v=qlH4-oHnBb8&ab_channel=DavidBlack-Schaffer)|
+| The almighty GeeksForGeeks has a splendid article on virtual memory. It gives you details about paging, swapping, and thrashing. The article is a really good place to start learning about VM.| https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)|
+|University of Alabama in Huntsville has a wonderful notes on memory allocation. Though, it is quite short, it will help you understand about the material. The article also explain on pointer. Furthermore, it includes visualizations!|(https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)|
