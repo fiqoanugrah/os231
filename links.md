@@ -34,3 +34,12 @@ Week 5:
 The content of the video really helped me during the quiz. It explains all about virtual memory. It is relatively short. The speaker completes the video with so many visuals, so it is easy to understand it, especially about mapping!| (https://www.youtube.com/watch?v=qlH4-oHnBb8&ab_channel=DavidBlack-Schaffer)|
 | The almighty GeeksForGeeks has a splendid article on virtual memory. It gives you details about paging, swapping, and thrashing. The article is a really good place to start learning about VM.| https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)|
 |University of Alabama in Huntsville has a wonderful notes on memory allocation. Though, it is quite short, it will help you understand about the material. The article also explain on pointer. Furthermore, it includes visualizations!|(https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)|
+
+Week 5:
+| what the link is about, why the link is interesting | Links |
+| --- | --- |
+| This article is about processes in the operating system. From this article, you can learn about states of processes, Process Control Block (PCB), process scheduling, and the differences between process and program.| https://www.studytonight.com/operating-system/operating-system-processes|
+| Difference between Process and Thread
+This article explains the differences between process and thread in great detail. This article is really concise yet informative.| https://www.geeksforgeeks.org/difference-between-process-and-thread/|
+|Threads in Operating System
+This article is about threads in the operating system. This article also provides some examples and analogies so that readers can understand this topic easily.|https://www.scaler.com/topics/operating-system/threads-in-operating-system/|
