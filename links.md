@@ -39,7 +39,5 @@ Week 5:
 | what the link is about, why the link is interesting | Links |
 | --- | --- |
 | This article is about processes in the operating system. From this article, you can learn about states of processes, Process Control Block (PCB), process scheduling, and the differences between process and program.| https://www.studytonight.com/operating-system/operating-system-processes|
-| Difference between Process and Thread
-This article explains the differences between process and thread in great detail. This article is really concise yet informative.| https://www.geeksforgeeks.org/difference-between-process-and-thread/|
-|Threads in Operating System
-This article is about threads in the operating system. This article also provides some examples and analogies so that readers can understand this topic easily.|https://www.scaler.com/topics/operating-system/threads-in-operating-system/|
+| Difference between Process and Thread This article explains the differences between process and thread in great detail. This article is really concise yet informative.| https://www.geeksforgeeks.org/difference-between-process-and-thread/|
+|Threads in Operating System this article is about threads in the operating system. This article also provides some examples and analogies so that readers can understand this topic easily.|https://www.scaler.com/topics/operating-system/threads-in-operating-system/|
