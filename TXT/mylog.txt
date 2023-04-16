@@ -42,5 +42,13 @@ ZCZC W06 30 L05 Check LINKS rank
 ZCZC W06 240 L24 Add webscrapping guide
 ZCZC W06 30 L05 Quiz 01 Week 06
 ZCZC W06 240 L16 Finish Weekly Assignment 06
-ZCZC W05 10 L04 GitHub Pages related
+ZCZC W06 10 L04 GitHub Pages related
 ZCZC W06 30 L05 Pop Quiz 01 Week 06
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 240 L24 Reading and update LINKS
+ZCZC W07 30 L05 Check LINKS rank
+ZCZC W07 240 L24 Add webscrapping guide
+ZCZC W07 30 L05 Quiz 01 Week 06
+ZCZC W07 240 L16 Finish Weekly Assignment 06
+ZCZC W07 10 L04 GitHub Pages related
+ZCZC W07 30 L05 Pop Quiz 01 Week 06
