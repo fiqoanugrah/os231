@@ -35,9 +35,16 @@ The content of the video really helped me during the quiz. It explains all about
 | The almighty GeeksForGeeks has a splendid article on virtual memory. It gives you details about paging, swapping, and thrashing. The article is a really good place to start learning about VM.| https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)|
 |University of Alabama in Huntsville has a wonderful notes on memory allocation. Though, it is quite short, it will help you understand about the material. The article also explain on pointer. Furthermore, it includes visualizations!|(https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)|
 
-Week 5:
+Week 6:
 | what the link is about, why the link is interesting | Links |
 | --- | --- |
 | This article is about processes in the operating system. From this article, you can learn about states of processes, Process Control Block (PCB), process scheduling, and the differences between process and program.| https://www.studytonight.com/operating-system/operating-system-processes|
 | Difference between Process and Thread This article explains the differences between process and thread in great detail. This article is really concise yet informative.| https://www.geeksforgeeks.org/difference-between-process-and-thread/|
 |Threads in Operating System this article is about threads in the operating system. This article also provides some examples and analogies so that readers can understand this topic easily.|https://www.scaler.com/topics/operating-system/threads-in-operating-system/|
+
+Week 7:
+| what the link is about, why the link is interesting | Links |
+| --- | --- |
+| This article is about virtual machine. You can learn many things from this article, including how do virtual machines work, the advantages and disadvantages of virtual machines, types of virtualization, and many more. This article is very useful and informative|(https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)|
+| This article explains page fault handling very nicely and makes it easy to understand. You can read this when learning about page fault to enrich your knowledge about it.| (https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/)|
+|it is worth to watch. The speaker explains the topic in a great detail.|(https://www.youtube.com/watch?v=ph2awKa8r5Y&ab_channel=NesoAcademy)|
