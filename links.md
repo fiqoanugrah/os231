@@ -55,3 +55,11 @@ Week 8:
 |This is good introduction to understand the concept of LFS in Indonesian. I couldn't find any better materials in Indonesian to explain the basic concepts of LFS. I think this might give you a big picture to understand the essentials of LFS.|(https://id.wikipedia.org/wiki/Linux_From_Scratch)|
 |This article gives clear explanation about multiple-processor scheduling. This article explains that multiple CPU's are available in multiple-processor scheduling and hence load sharing becomes possible.| (https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)|
 |it is worth to watch. Really helped from it|https://www.youtube.com/watch?v=KT7z4YbjtJ8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb&index=7|
+
+Week 9:
+| what the link is about, why the link is interesting | Links |
+| --- | --- |
+|Complete guide to two types of disk partitioning Master Boot Record & GUID Partition Table. Also learn the key difference between MBR vs GPT from this website.|https://www.softwaretestinghelp.com/mbr-vs-gpt/|
+|A main webpage that guides to make Linux From Scratch. A complete guide.|https://www.linuxfromscratch.org/lfs/view/11.2/ |
+|it is worth to watch. Really helped from it|(https://www.youtube.com/watch?v=5m3jE0RUbUk&list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP&ab_channel=SxurceCxdeID)|
+
