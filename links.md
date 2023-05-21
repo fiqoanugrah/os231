@@ -63,3 +63,10 @@ Week 9:
 |A main webpage that guides to make Linux From Scratch. A complete guide.|https://www.linuxfromscratch.org/lfs/view/11.2/ |
 |it is worth to watch. Really helped from it|(https://www.youtube.com/watch?v=5m3jE0RUbUk&list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP&ab_channel=SxurceCxdeID)|
 
+Week 10:
+| what the link is about, why the link is interesting | Links |
+| --- | --- |
+|This is a brief that explains about I/O Systems concept in operating system. What makes this interesting is that the site also give visualizations so that we can understand better.|https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html|
+|While point number 2 explains about I/O Systems, this site gives you information about its principles when applied on software.|https://gcallah.github.io/OperatingSystems/IOSoftware.html |
+|The assignments links|https://osp4diss.vlsm.org/AOS.html#idx10|
+
